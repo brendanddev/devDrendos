@@ -1,9 +1,9 @@
 
 <h1 align="center"><i>Welcome</i> — Brendan (brendanddev)</h1>
 
-I build software close to the metal.
+I like building software close to the metal.
 
-My focus is operating systems, systems programming, and low-level performance work. I care about understanding how things actually work under the hood — from applications down to kernels, memory, and hardware.
+My focus is systems programming, lower-level performance work, and operating systems. I care about understanding how things actually work under the hood — from libraries and applications, down to kernels, memory, and hardware. I have also started work with AI systems and workflows.
 
 I work mostly in C, Rust, and Java, with interest in compilers, runtimes, and efficient AI systems on consumer hardware.
 
